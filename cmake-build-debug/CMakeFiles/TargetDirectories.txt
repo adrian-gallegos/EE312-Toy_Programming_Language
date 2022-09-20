@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 8/Project8_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 8/Project8_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 8/Project8_starter_files/cmake-build-debug/CMakeFiles/Project8_starter_files.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Project8_starter_files.dir/Project8.cpp.o CMakeFiles/Project8_starter_files.dir/Input.cpp.o -o Project8_starter_files.exe -Wl,--out-implib,libProject8_starter_files.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
